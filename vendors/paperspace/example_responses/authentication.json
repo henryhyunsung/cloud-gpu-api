@@ -1,0 +1,48 @@
+{
+  "user": {
+    "firstName": "Jonah",
+    "lastName": "Smith",
+    "email": "alexdee6@bigpond.com",
+    "dtCreated": "2023-08-21T01:17:33.632Z",
+    "dtConfirmed": "2023-08-21T01:17:33.547Z",
+    "teamMemberships": [
+      {
+        "team": {
+          "name": "Private workspace",
+          "id": "tj5qr1kv4s",
+          "namespace": "jonah",
+          "publicProfileImageUrl": "https://avatars.githubusercontent.com/u/19386421?v=4",
+          "isUserTeam": true,
+          "dtCreated": "2023-08-21T01:17:33.655Z"
+        },
+        "isOwner": true,
+        "isAdmin": true
+      }
+    ],
+    "isPhoneVerified": true,
+    "isPasswordAuthEnabled": false,
+    "isQrCodeBasedMfaEnabled": false,
+    "isQrCodeBasedMfaConfirmed": false,
+    "preferences": null,
+    "id": "uy1e7nbo4",
+    "analyticsId": 1378598,
+    "metadata": {
+      "tags": "core",
+      "coreSurvey": {
+        "How big is your team?": "6-20",
+        "How would you describe yourself?": "Student",
+        "What are you interested in using Core for?": "GPU hosting"
+      },
+      "gradientSurvey": null,
+      "graphcoreTermsAccepted": false
+    }
+  },
+  "team": {
+    "namespace": "jonah",
+    "isPrivate": true,
+    "maxMachines": 5,
+    "id": "tj5qr1kv4s",
+    "analyticsId": 1393197
+  }
+}
+
